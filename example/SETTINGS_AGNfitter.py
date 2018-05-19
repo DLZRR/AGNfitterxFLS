@@ -75,7 +75,7 @@ def CATALOG_settings():
 
     cat['flux_in_magAB'] = False # Option to calculate flux and flux_error from magnitude AB.
 
-    cat['output_folder'] =  '/data1/OUTPUT_AGNFitter/FLS_ALL_2_6/' #if no special OUTPUT folder, leave default
+    cat['output_folder'] =  '/data1/OUTPUT_AGNfitter/FLS_ALL_2_6/' #if no special OUTPUT folder, leave default
 
 
     return cat
